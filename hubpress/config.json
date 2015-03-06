@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "hidennis",
-    "repositoryName": "hidennis.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"hidennis","repositoryName":"hidennis.github.io","branch":"master"},"site":{"title":"无脑志","description":"一个伪技术流的技术博客","url":"https://hidennis.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"https://hidennis.github.io/themes/Casper"}}
